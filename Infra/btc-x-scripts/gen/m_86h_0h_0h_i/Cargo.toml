@@ -1,0 +1,10 @@
+[package]
+name = "m_86h_0h_0h_i"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+description = "Rust port of gen/m-86h-0h-0h-i.py"
+
+[dependencies]
+btcx_gen = { path = "../lib" }

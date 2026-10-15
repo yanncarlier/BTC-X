@@ -1,0 +1,34 @@
+{
+  "mnemonic_phrase": "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about",
+  "passphrase": "",
+  "seed_hex": "5eb00bbddcf069084889a8ab9155568165f5c453ccb85e70811aaed6f6da5fc19a5ac40b389cd370d086206dec8aa6c43daea6690f20ad3d8d48b2d2ce9e38e4",
+  "address_type": "Bitcoin Core-style HD P2PKH",
+  "account_extended_public_key": "xpub6BiChRN7aqq51RA7RnAmKhqKdGckPncrHWLrj1xoj6ZMfdMJ1dX4Ysh9V3yEhpFCpC3BapjR83xPKY693XXTEU6qgWU3qZs78WBHA15uhYf",
+  "account_extended_private_key": "xprv9xirHuqDkUGmnw5eKkdkxZtb5EnFzKtzvHRFvdZCAm2Nnq29U6Cp15NfdnkLNbmsTkqFNgjpbLwdjVemQ7H9cE99sJSQE7NSnKFuNZeQ2xe",
+  "addresses": [
+    {
+      "index": 0,
+      "derivation_path": "m/0'/0'/0'",
+      "address": "16fWWdLokmpctATuim8q5SvAu1GR9prV5m",
+      "public_key": "026fe19b94967c5159c9afaf8eb2870abed5fa0405ae091e4abc69487f7660b8a1",
+      "private_key": "5698780109efd1fbd31b352bf28a67924b254fa67e3693319a742a42a265e506",
+      "wif": "Kz83MSSkKMCyVrehwTaG2bHyVhp8itNNKMBLAGkShLaV2xqoX2ZD"
+    },
+    {
+      "index": 1,
+      "derivation_path": "m/0'/0'/0'",
+      "address": "16fWWdLokmpctATuim8q5SvAu1GR9prV5m",
+      "public_key": "026fe19b94967c5159c9afaf8eb2870abed5fa0405ae091e4abc69487f7660b8a1",
+      "private_key": "5698780109efd1fbd31b352bf28a67924b254fa67e3693319a742a42a265e506",
+      "wif": "Kz83MSSkKMCyVrehwTaG2bHyVhp8itNNKMBLAGkShLaV2xqoX2ZD"
+    },
+    {
+      "index": 2,
+      "derivation_path": "m/0'/0'/0'",
+      "address": "16fWWdLokmpctATuim8q5SvAu1GR9prV5m",
+      "public_key": "026fe19b94967c5159c9afaf8eb2870abed5fa0405ae091e4abc69487f7660b8a1",
+      "private_key": "5698780109efd1fbd31b352bf28a67924b254fa67e3693319a742a42a265e506",
+      "wif": "Kz83MSSkKMCyVrehwTaG2bHyVhp8itNNKMBLAGkShLaV2xqoX2ZD"
+    }
+  ]
+}

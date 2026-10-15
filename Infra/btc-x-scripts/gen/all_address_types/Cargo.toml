@@ -1,0 +1,10 @@
+[package]
+name = "all_address_types"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+description = "Rust port of gen/All_address_types.py"
+
+[dependencies]
+btcx_gen = { path = "../lib" }

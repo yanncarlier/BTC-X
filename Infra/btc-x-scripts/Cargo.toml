@@ -1,0 +1,39 @@
+[workspace]
+members = [
+    "gen/all_address_types",
+    "gen/brain_wallet",
+    "gen/generate_addresses",
+    "gen/generate_mnemonic",
+    "gen/lib",
+    "gen/m_0_i",
+    "gen/m_0h_0_0h",
+    "gen/m_0h_0_i",
+    "gen/m_0h_0_ih",
+    "gen/m_0h_0h_0h",
+    "gen/m_0h_0h_i",
+    "gen/m_0h_0h_ih",
+    "gen/m_0h_i",
+    "gen/m_44h_0h_0h_0",
+    "gen/m_44h_0h_0h_0_i",
+    "gen/m_44h_0h_0h_0_ih",
+    "gen/m_44h_0h_0h_i",
+    "gen/m_44h_0h_0h_ih",
+    "gen/m_49h_0h_0h_0_i",
+    "gen/m_49h_0h_0h_0_ih",
+    "gen/m_84h_0h_0h_0_i",
+    "gen/m_84h_0h_0h_0_ih",
+    "gen/m_86h_0h_0h_i",
+    "net/blockstream_info",
+    "net/blockstream_tx",
+    "net/broadcast_tx",
+    "src/lib",
+    "tx/create_tx",
+    "tx/estimate_fee",
+    "tx/fetch_utxos",
+    "tx/sign_tx",
+]
+resolver = "2"
+
+[profile.release]
+lto = true
+codegen-units = 1

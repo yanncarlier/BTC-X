@@ -1,0 +1,10 @@
+[package]
+name = "brain_wallet"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+description = "Rust port of gen/Brain_wallet.py"
+
+[dependencies]
+btcx_gen = { path = "../lib" }

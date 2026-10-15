@@ -1,0 +1,10 @@
+[package]
+name = "generate_mnemonic"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+description = "Rust port of gen/Generate_mnemonic.py"
+
+[dependencies]
+btcx_gen = { path = "../lib" }

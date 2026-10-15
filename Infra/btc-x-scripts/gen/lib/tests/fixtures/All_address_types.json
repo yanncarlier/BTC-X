@@ -1,0 +1,306 @@
+[
+  {
+    "template": "m",
+    "address_type": "p2pkh",
+    "pattern": "m",
+    "addresses": [
+      {
+        "index": null,
+        "derivation_path": "m",
+        "address_type": "p2pkh",
+        "address": "1BZ9j3F7m4H1RPyeDp5iFwpR31SB6zrs19",
+        "public_key": "03d902f35f560e0470c63313c7369168d9d7df2d49bf295fd9fb7cb109ccee0494",
+        "private_key": "1837c1be8e2995ec11cda2b066151be2cfb48adf9e47b151d46adab3a21cdf67",
+        "wif": "Kx2nc8CerNfcsutaet3rPwVtxQvXuQTYxw1mSsfFHsWExJ9xVpLf"
+      }
+    ]
+  },
+  {
+    "template": "m-0-i",
+    "address_type": "p2pkh",
+    "pattern": "m/0/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/0/0",
+        "address_type": "p2pkh",
+        "address": "13iX7DteNj1gV7zhe4t6o9FX9CArR5wZxz",
+        "public_key": "027fa517bb858426db1571d0a63ebb792d9bfae95d7647d63b59c1dabbdc489e62",
+        "private_key": "1db589435fc2e15100af30965d58e0aaa8101e1dfc559735c34c75d5a1bd7e56",
+        "wif": "KxDTisYSXy8fwZBtxiXKNRCkipFviJLosSceTf7BXmC79xAqzDBW"
+      }
+    ]
+  },
+  {
+    "template": "m-0h-i",
+    "address_type": "p2pkh",
+    "pattern": "m/0'/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/0'/0",
+        "address_type": "p2pkh",
+        "address": "1Q5FHbm75ZYDnHkGgBC2y8cCn8cTrqK37v",
+        "public_key": "03038c1b21ba6eb640c4d325fcd23e62e1740b05364e2f8cf4d02036e506ad2aec",
+        "private_key": "f8584fca931dcbcd653477c8df5d4668bdb60d2a65e85bf3e6d2bcda3e9471af",
+        "wif": "L5YThDEJG3rNw65MnNP3bv7zVNeKEiBvQz8PLVdxvi1W7FKVCjrB"
+      }
+    ]
+  },
+  {
+    "template": "m-0h-0-i",
+    "address_type": "p2pkh",
+    "pattern": "m/0'/0/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/0'/0/0",
+        "address_type": "p2pkh",
+        "address": "17871ErDqdevLTLWBH6WzjUc1EKGDQzCMA",
+        "public_key": "026666422d00f1b308fc7527198749f06fedb028b979c09f60d0348ef79c985e41",
+        "private_key": "e81fa7bb95cc6bee975bf675bfebbab4044c1390e6a00ae246e55c07e3cf835e",
+        "wif": "L4zvqB8Cme7xRmTWxQ6TVmQs7smCNKD1rfAKmYZx6DAqyLjm4sp4"
+      }
+    ]
+  },
+  {
+    "template": "m-0h-0-ih",
+    "address_type": "p2pkh",
+    "pattern": "m/0'/0/i'",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/0'/0/0'",
+        "address_type": "p2pkh",
+        "address": "1Ecw6WNntSpgRMtMfdeCt72UzsTEbqq6As",
+        "public_key": "0235bd48208ff716538a9159eb52d5a227a54dea0738d4c6255ef8faf3b2af6236",
+        "private_key": "2985528070bf0af2c7c277ca434aa1524c306268962d5b9ce3cede317aac1161",
+        "wif": "KxcRRRs6QqrZSaL9UoWcLr6Jtnap2fsMDmoexdW7yPn28u3XpTrr"
+      }
+    ]
+  },
+  {
+    "template": "m-0h-0-0h",
+    "address_type": "p2pkh",
+    "pattern": "m/0'/0/0'",
+    "addresses": [
+      {
+        "index": null,
+        "derivation_path": "m/0'/0/0'",
+        "address_type": "p2pkh",
+        "address": "1Ecw6WNntSpgRMtMfdeCt72UzsTEbqq6As",
+        "public_key": "0235bd48208ff716538a9159eb52d5a227a54dea0738d4c6255ef8faf3b2af6236",
+        "private_key": "2985528070bf0af2c7c277ca434aa1524c306268962d5b9ce3cede317aac1161",
+        "wif": "KxcRRRs6QqrZSaL9UoWcLr6Jtnap2fsMDmoexdW7yPn28u3XpTrr"
+      }
+    ]
+  },
+  {
+    "template": "m-0h-0h-i",
+    "address_type": "p2pkh",
+    "pattern": "m/0'/0'/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/0'/0'/0",
+        "address_type": "p2pkh",
+        "address": "18HJwMH953rDnNg2uTKW1RpQvGbNaLhnVk",
+        "public_key": "027a4d049f3a7a095025e5447dfaa019a982049c16a11a3005fefd55cfcede977c",
+        "private_key": "adde5d5dc86f4f018ceb40bb09a492414063ad83c3ecedc3727e39ed98c05bf5",
+        "wif": "L33guBi99jgehQZ1yJBdnhTxjNGvx7JaCyu4uUTN9krmmUNw7T9U"
+      }
+    ]
+  },
+  {
+    "template": "m-0h-0h-ih",
+    "address_type": "p2pkh",
+    "pattern": "m/0'/0'/i'",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/0'/0'/0'",
+        "address_type": "p2pkh",
+        "address": "16fWWdLokmpctATuim8q5SvAu1GR9prV5m",
+        "public_key": "026fe19b94967c5159c9afaf8eb2870abed5fa0405ae091e4abc69487f7660b8a1",
+        "private_key": "5698780109efd1fbd31b352bf28a67924b254fa67e3693319a742a42a265e506",
+        "wif": "Kz83MSSkKMCyVrehwTaG2bHyVhp8itNNKMBLAGkShLaV2xqoX2ZD"
+      }
+    ]
+  },
+  {
+    "template": "m-0h-0h-0h",
+    "address_type": "p2pkh",
+    "pattern": "m/0'/0'/0'",
+    "addresses": [
+      {
+        "index": null,
+        "derivation_path": "m/0'/0'/0'",
+        "address_type": "p2pkh",
+        "address": "16fWWdLokmpctATuim8q5SvAu1GR9prV5m",
+        "public_key": "026fe19b94967c5159c9afaf8eb2870abed5fa0405ae091e4abc69487f7660b8a1",
+        "private_key": "5698780109efd1fbd31b352bf28a67924b254fa67e3693319a742a42a265e506",
+        "wif": "Kz83MSSkKMCyVrehwTaG2bHyVhp8itNNKMBLAGkShLaV2xqoX2ZD"
+      }
+    ]
+  },
+  {
+    "template": "m-44h-0h-0h-0",
+    "address_type": "p2pkh",
+    "pattern": "m/44'/0'/0'/0",
+    "addresses": [
+      {
+        "index": null,
+        "derivation_path": "m/44'/0'/0'/0",
+        "address_type": "p2pkh",
+        "address": "13KE6TffArLh4fVM6uoQzvsYq5vwetJcVM",
+        "public_key": "0386b865b52b753d0a84d09bc20063fab5d8453ec33c215d4019a5801c9c6438b9",
+        "private_key": "83bda5c7add17ef9bbc1f03391913fe6cc947aa18c4a343607724e815c83eeb7",
+        "wif": "L1doE4V5uyQvqMtgB5do8fE1REhQPVE4vxE9KRs5sjcNDv16SGbC"
+      }
+    ]
+  },
+  {
+    "template": "m-44h-0h-0h-0-i",
+    "address_type": "p2pkh",
+    "pattern": "m/44'/0'/0'/0/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/44'/0'/0'/0/0",
+        "address_type": "p2pkh",
+        "address": "1LqBGSKuX5yYUonjxT5qGfpUsXKYYWeabA",
+        "public_key": "03aaeb52dd7494c361049de67cc680e83ebcbbbdbeb13637d92cd845f70308af5e",
+        "private_key": "e284129cc0922579a535bbf4d1a3b25773090d28c909bc0fed73b5e0222cc372",
+        "wif": "L4p2b9VAf8k5aUahF1JCJUzZkgNEAqLfq8DDdQiyAprQAKSbu8hf"
+      }
+    ]
+  },
+  {
+    "template": "m-44h-0h-0h-0-ih",
+    "address_type": "p2pkh",
+    "pattern": "m/44'/0'/0'/0/i'",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/44'/0'/0'/0/0'",
+        "address_type": "p2pkh",
+        "address": "1NgVJi2e9v7pf6jYuqMo9bhJhH5GRwvSiQ",
+        "public_key": "03953935b5128a28752a960d7c9641176ee8c6c70fb0964e0f3231c195ba6a2cc5",
+        "private_key": "64b43677f7ba50565530bbeef0d6a041d40b0b01bedc8176f0ec031fca1ef367",
+        "wif": "KzbTzbKeotsem631kMcsvxovtH8atjurUwyNo7baXNN3G1nKkiVx"
+      }
+    ]
+  },
+  {
+    "template": "m-44h-0h-0h-i",
+    "address_type": "p2pkh",
+    "pattern": "m/44'/0'/0'/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/44'/0'/0'/0",
+        "address_type": "p2pkh",
+        "address": "13KE6TffArLh4fVM6uoQzvsYq5vwetJcVM",
+        "public_key": "0386b865b52b753d0a84d09bc20063fab5d8453ec33c215d4019a5801c9c6438b9",
+        "private_key": "83bda5c7add17ef9bbc1f03391913fe6cc947aa18c4a343607724e815c83eeb7",
+        "wif": "L1doE4V5uyQvqMtgB5do8fE1REhQPVE4vxE9KRs5sjcNDv16SGbC"
+      }
+    ]
+  },
+  {
+    "template": "m-44h-0h-0h-ih",
+    "address_type": "p2pkh",
+    "pattern": "m/44'/0'/0'/i'",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/44'/0'/0'/0'",
+        "address_type": "p2pkh",
+        "address": "13w1vweeVz4ADcR24F46LbLYR4BxR2TewF",
+        "public_key": "03538bedd425db67b3f68b1152235b56e4d938284dc31bb72648c2079b00f6101f",
+        "private_key": "ebb3082a71cf4b29239175619eb3e78a6316b6987ae2581c729706e1eae25ce4",
+        "wif": "L57syF8Pb7miZvspwABsy9u5ew5vpdjBEZT4FWqX3Ntxenw2iijv"
+      }
+    ]
+  },
+  {
+    "template": "m-49h-0h-0h-0-i",
+    "address_type": "p2sh-p2wpkh",
+    "pattern": "m/49'/0'/0'/0/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/49'/0'/0'/0/0",
+        "address_type": "p2sh-p2wpkh",
+        "address": "37VucYSaXLCAsxYyAPfbSi9eh4iEcbShgf",
+        "public_key": "039b3b694b8fc5b5e07fb069c783cac754f5d38c3e08bed1960e31fdb1dda35c24",
+        "private_key": "508c73a06f6b6c817238ba61be232f5080ea4616c54f94771156934666d38ee3",
+        "wif": "KyvHbRLNXfXaHuZb3QRaeqA5wovkjg4RuUpFGCxdH5UWc1Foih9o"
+      }
+    ]
+  },
+  {
+    "template": "m-49h-0h-0h-0-ih",
+    "address_type": "p2sh-p2wpkh",
+    "pattern": "m/49'/0'/0'/0/i'",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/49'/0'/0'/0/0'",
+        "address_type": "p2sh-p2wpkh",
+        "address": "3FkmL1FpK3nnZHrt8JxRr9gNB2yTTDYbm4",
+        "public_key": "03482fed2e6b0655c1ecc3090b12e290629b7ade62fc6ce142ed320eaf7c5aa31c",
+        "private_key": "eb0b27cafcf42c824aad96556620e04778cc6fd78102682dc664cbba65c1a096",
+        "wif": "L56c34m1hg1hr6cXjWfrzFA3W55bJicisptfJbA8gicrP6zDHCFs"
+      }
+    ]
+  },
+  {
+    "template": "m-84h-0h-0h-0-i",
+    "address_type": "p2wpkh",
+    "pattern": "m/84'/0'/0'/0/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/84'/0'/0'/0/0",
+        "address_type": "p2wpkh",
+        "address": "bc1qcr8te4kr609gcawutmrza0j4xv80jy8z306fyu",
+        "public_key": "0330d54fd0dd420a6e5f8d3624f5f3482cae350f79d5f0753bf5beef9c2d91af3c",
+        "private_key": "4604b4b710fe91f584fff084e1a9159fe4f8408fff380596a604948474ce4fa3",
+        "wif": "KyZpNDKnfs94vbrwhJneDi77V6jF64PWPF8x5cdJb8ifgg2DUc9d"
+      }
+    ]
+  },
+  {
+    "template": "m-84h-0h-0h-0-ih",
+    "address_type": "p2wpkh",
+    "pattern": "m/84'/0'/0'/0/i'",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/84'/0'/0'/0/0'",
+        "address_type": "p2wpkh",
+        "address": "bc1qzqvjup3rktlrf73znrpzk4624qz53wevx0uppa",
+        "public_key": "025839ae646eef65214b965d88a3cc09b6add4f67e52277a42bb5330b45f21e689",
+        "private_key": "2375550a6a4e4899c639977b09769cb1feadb18c1dc2e02ca83010b9c45fca4d",
+        "wif": "KxQduvengQDdUgp8LZ73XXpswQYzKb3AXc1gedGp2oJu4mTjvNAd"
+      }
+    ]
+  },
+  {
+    "template": "m-86h-0h-0h-i",
+    "address_type": "p2tr",
+    "pattern": "m/86'/0'/0'/i",
+    "addresses": [
+      {
+        "index": 0,
+        "derivation_path": "m/86'/0'/0'/0",
+        "address_type": "p2tr",
+        "address": "bc1p34w5xzczeel9l8tle39nu763pvhjschtmv7wewxy3qv0c5rgskds7ta5fq",
+        "public_key": "0280acdda0a964dc495adc7d0b15fbbe3b0e67c5b10f87662e0cb4e0ebc320d804",
+        "private_key": "4fb10a614137ad7fd12cd3f253a1c46b23a74e79d3683865c6d60ff0211e1d60",
+        "wif": "KytcxrhpyjrECvfc73WBqdzPaca8f7C6dkVrtzK4MQiWYdMk88Rp"
+      }
+    ]
+  }
+]

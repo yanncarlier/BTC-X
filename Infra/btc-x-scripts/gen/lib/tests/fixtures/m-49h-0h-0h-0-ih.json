@@ -1,0 +1,34 @@
+{
+  "mnemonic_phrase": "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about",
+  "passphrase": "",
+  "seed_hex": "5eb00bbddcf069084889a8ab9155568165f5c453ccb85e70811aaed6f6da5fc19a5ac40b389cd370d086206dec8aa6c43daea6690f20ad3d8d48b2d2ce9e38e4",
+  "address_type": "BIP49 external chain hardened index",
+  "account_extended_public_key": "xpub6DxfeSkRDs938x5EJDrqqxbkCmKFBH5mwkPbL361emwfxSK2FfQjwU4LqYLrnT7M5j4zjoQeuZXr9kGrLqqCdD8qcC3KLxtsWUs9zk51VcK",
+  "account_extended_private_key": "xprv9zyKEwDXPVajvTzmCCKqUpf1ejUkmpMvaXTzXegQ6SQh5dysi86VPfjrzFqok9nVNay4qRVe5eiFjs4RGNdkWt2JdicTB4Xry3fJmZ97UhF",
+  "addresses": [
+    {
+      "index": 0,
+      "derivation_path": "m/49'/0'/0'/0/0'",
+      "address": "3FkmL1FpK3nnZHrt8JxRr9gNB2yTTDYbm4",
+      "public_key": "03482fed2e6b0655c1ecc3090b12e290629b7ade62fc6ce142ed320eaf7c5aa31c",
+      "private_key": "eb0b27cafcf42c824aad96556620e04778cc6fd78102682dc664cbba65c1a096",
+      "wif": "L56c34m1hg1hr6cXjWfrzFA3W55bJicisptfJbA8gicrP6zDHCFs"
+    },
+    {
+      "index": 1,
+      "derivation_path": "m/49'/0'/0'/0/1'",
+      "address": "3FL4MomMCjwBFFdh8MFN8k6QFkk5y9D2JN",
+      "public_key": "02b131ac04fa2cecf568af4259dc7aa2a6bd58a18644f2de37a235b74efc97a516",
+      "private_key": "1171c00de8e8488074db3e4558406539ee74f036f33d6b9ba666492a428188d3",
+      "wif": "KwocwFfQpwNnCiCgkRVkZdojQfge12ZTCpu8267MJzAJtgXj7TFa"
+    },
+    {
+      "index": 2,
+      "derivation_path": "m/49'/0'/0'/0/2'",
+      "address": "37XCCVJWNJxHrCxMEY6GQX7MDxPon4JQHk",
+      "public_key": "033129b0c681592dca8188b865b71275f7c41ab3b170e93a682b82ac59602739a8",
+      "private_key": "b8aa818052ef21941df670908fccc8af1893e270f4f84a1b70adaa80175cbbcd",
+      "wif": "L3QgFTi8dnpbCUyCpmoGnmtTU6MsAeqQxK4711bNDzBmcw5rKBNb"
+    }
+  ]
+}
