@@ -2,7 +2,6 @@
 members = [
     "gen/all_address_types",
     "gen/brain_wallet",
-    "gen/generate_addresses",
     "gen/generate_mnemonic",
     "gen/lib",
     "gen/m_0_i",

@@ -74,7 +74,6 @@ CRATES=(
     "tx/sign_tx:sign_tx"
     "gen/all_address_types:all_address_types"
     "gen/brain_wallet:brain_wallet"
-    "gen/generate_addresses:generate_addresses"
     "gen/generate_mnemonic:generate_mnemonic"
     "gen/m_0_i:m_0_i"
     "gen/m_0h_i:m_0h_i"

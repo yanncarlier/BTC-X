@@ -39,7 +39,6 @@ dist/
 ├── create_tx
 ├── estimate_fee
 ├── fetch_utxos
-├── generate_addresses
 ├── generate_mnemonic
 ├── m_0_i
 ├── m_0h_0_0h
@@ -121,11 +120,6 @@ scripts/build/build.sh --clean --release
     "bip39_seed": "e43badff...",
     "bip32_root_key": "xprv9s21ZrQH143K3..."
 }
-```
-
-```bash
-# Generate addresses from mnemonic (no passphrase)
-./dist/generate_addresses "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about" "m/44'/0'/0'/0" ""
 ```
 
 ```bash
@@ -318,14 +312,6 @@ builds and signs transactions, `net/` queries the Blockstream API, and
 - Generates BIP39 mnemonic phrases with the built-in English wordlist
 - `-s/--strength` selects 128, 160, 192, 224 or 256 bits (12/15/18/21/24 words)
 - Outputs the mnemonic, the BIP39 seed and the BIP32 root key as JSON
-
-#### Generate Addresses (`gen/generate_addresses/`)
-
-- Generates Bitcoin addresses from a BIP39 mnemonic
-- Supports arbitrary BIP32 derivation paths
-- Optional passphrase support
-- Generates 10 addresses from a parent derivation path
-- Outputs: derivation path, address, public key, private key (hex), and WIF
 
 #### Brain Wallet (`gen/brain_wallet/`)
 
