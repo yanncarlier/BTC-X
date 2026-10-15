@@ -598,3 +598,8 @@ FodyWeavers.xsd
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
 notes.md
+
+gitignore/
+
+# Sandbox launcher regenerated on every agent session; bakes in local paths
+this-bwrap.sh
